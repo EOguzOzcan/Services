@@ -1,0 +1,23 @@
+[
+    {
+      "head": "ALTOBOOK",
+      "servicesText": "An integrated system providing legal compliant and auditproof financial applications, electronic document creation, distribution, storage and reporting"
+      
+  
+    },
+    {
+      "head": "ALTOCHAIN",
+      "servicesText": "Information exchange to maximize supply chain‘s efficiency, including a unified IoT stack and blockchain technologies"
+      
+    },
+    {
+      "head": "ALTOSIGN",
+      "servicesText": "A single platform for adding trust, data integrity and traceability to existing systems to reduce risk and fraud whilst strengthening internal controls, compliance and audit"
+      
+    },
+    {
+      "head": "ALTOVISION",
+      "servicesText": "A digital platform for the mobile industry to bridge digital to physical world through computer vision technologies, served by ML/DL and powerful tools"
+      
+    }
+  ]
